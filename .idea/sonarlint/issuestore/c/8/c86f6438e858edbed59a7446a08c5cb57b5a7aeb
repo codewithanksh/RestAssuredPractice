@@ -1,0 +1,21 @@
+
+o
+java:S1192_"MDefine a constant instead of duplicating this literal "/api/users/2" 3 times.(à›¤‰ùÿÿÿÿ8‹²Ô»÷.
+U	java:S106Q"9Replace this use of System.out or System.err by a logger.(ö¡¹ê8¨£»¾÷.
+t
+java:S1192"RDefine a constant instead of duplicating this literal "https://reqres.in" 4 times.(Ô„èÂıÿÿÿÿ8Û«½÷.
+X
+java:S2696"6Make the enclosing method "static" or remove this set.(Ô„èÂıÿÿÿÿ8°‡‘½÷.
+X
+java:S2696,"6Make the enclosing method "static" or remove this set.(Ô„èÂıÿÿÿÿ8Íé½÷.
+X
+java:S2696n"6Make the enclosing method "static" or remove this set.(Ô„èÂıÿÿÿÿ8ùÏ½÷.
+X
+java:S2696Z"6Make the enclosing method "static" or remove this set.(Ô„èÂıÿÿÿÿ8Ê½÷.
+h
+java:S11922"KDefine a constant instead of duplicating this literal "/api/users" 3 times.(µÓíé8£¨«¾÷.
+^	java:S125…"<This block of commented-out lines of code should be removed.(’æàåúÿÿÿÿ8âéø»÷.
+f
+java:S11925"IDefine a constant instead of duplicating this literal "morpheus" 3 times.(şÎ¥8£¨«¾÷.
+d
+java:S11926"GDefine a constant instead of duplicating this literal "leader" 3 times.(©ŒÙ¦8£¨«¾÷.

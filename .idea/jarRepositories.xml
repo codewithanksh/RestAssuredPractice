@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="RemoteRepositoriesConfiguration">
+    <remote-repository>
+      <option name="id" value="gainsight.snapshot.repo" />
+      <option name="name" value="GainSight Repository" />
+      <option name="url" value="http://nexus.gainsight.com:8080/nexus/content/repositories/gainsight-private" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="gainsight.release.repo" />
+      <option name="name" value="GainSight Release Repository" />
+      <option name="url" value="http://nexus.gainsight.com:8080/nexus/content/repositories/gainsight-release" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="Central Repository" />
+      <option name="url" value="https://repo1.maven.org/maven2" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="mavencentral" />
+      <option name="name" value="Maven Central Repository" />
+      <option name="url" value="https://repo1.maven.org/maven2" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="spring-milestones" />
+      <option name="name" value="Spring Milestones" />
+      <option name="url" value="https://repo.spring.io/milestone" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="Maven Central repository" />
+      <option name="url" value="https://repo1.maven.org/maven2" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="jboss.community" />
+      <option name="name" value="JBoss Community repository" />
+      <option name="url" value="https://repository.jboss.org/nexus/content/repositories/public/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="clojars" />
+      <option name="name" value="Clojars Repository for quartz-mongodb" />
+      <option name="url" value="https://clojars.org/repo" />
+    </remote-repository>
+  </component>
+</project>
