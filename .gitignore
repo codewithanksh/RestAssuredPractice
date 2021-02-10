@@ -23,7 +23,7 @@
 hs_err_pid*
 
 #Intellij files
-*.idea
+*.idea/
 *.iml
 
 #Exclude Target Folder
